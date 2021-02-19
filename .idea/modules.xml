@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Rest-Spring-Udemy.iml" filepath="$PROJECT_DIR$/.idea/Rest-Spring-Udemy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/restWithSpring/restWithSpring.iml" filepath="$PROJECT_DIR$/restWithSpring/restWithSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestWithSpringUdemy/RestWithSpringUdemy.iml" filepath="$PROJECT_DIR$/RestWithSpringUdemy/RestWithSpringUdemy.iml" />
     </modules>
   </component>
 </project>
