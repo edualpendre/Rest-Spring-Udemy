@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/restWithSpring/pom.xml" />
+        <option value="$PROJECT_DIR$/RestWithSpringUdemy/pom.xml" />
       </list>
     </option>
   </component>
